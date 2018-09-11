@@ -44,7 +44,7 @@ public class SeMethods extends Report implements WdMethods{
 			reportStep("The browser: "+browser+" could not be launched", "fail");
 		}
 	}
-
+//new
 	public WebElement locateElement(String locator, String locValue) {
 		try {
 			switch(locator) {

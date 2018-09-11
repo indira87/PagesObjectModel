@@ -10,9 +10,7 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Parameters;
 
 import utils.DataInputProvider;
-
-
-
+//new
 public class ProjectMethods extends SeMethods {
 	public String browserName;
 	public String dataSheetName;
